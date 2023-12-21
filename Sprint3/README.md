@@ -11,9 +11,11 @@ Conclusão da Sprint 3 - Edmilson Filho - Python 3 - Curso Completo do Básico a
 &nbsp;
 
 ## Evidências 
-1. [Conclusão](/Sprint3/Evidências/Conclusão%20Sprint%203.png)
-2. [Evidência1](/Sprint3/Evidências/Evidências%20-%201.png)
-3. [Evidência2](/Sprint3/Evidências/Evidências%20-%202.png)
+1. [Certificado](/Sprint3/Evidências/Python%203%20-%20Curso%20Completo%20do%20Básico%20ao%20Avançado.png)
+2. [Conclusão](/Sprint3/Evidências/Conclusão%20Sprint%203.png)
+3. [Evidência1](/Sprint3/Evidências/Evidências%20-%201.png)
+4. [Evidência2](/Sprint3/Evidências/Evidências%20-%202.png)
+
 
 ## Exercicios 
 1. [Seção3 -Python I - 1-2](/Sprint3/Exercicios/Seção3%20-Python%20I%20-%201-2/)
