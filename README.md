@@ -8,7 +8,8 @@ Olá! Meu nome é Edmilson Pessôa de Melo Filho
 Tenho 25 anos e sou da cidade de Paulista-PE
 &nbsp;
 
-Estou indo para o 7º período de Sistemas da Informação, pela faculdade Uninassau-Graças/Recife-PE
+Estou indo para o 7º período de Sistemas da Informação, pela faculdade Uninassau-Graças/Recife-PE.
+Formado em Gastronomia pela Faculdade Senac Pernambuco.
 
 
 
@@ -20,7 +21,7 @@ Estou indo para o 7º período de Sistemas da Informação, pela faculdade Unina
 - [x] [Sprint 3](Sprint3)
 - [x] [Sprint 4](Sprint4)
 - [x] [Sprint 5](Sprint5)
-- [ ] [Sprint 6](Sprint6)
+- [x] [Sprint 6](Sprint6)
 - [ ] [Sprint 7](Sprint7)
 - [ ] [Sprint 8](Sprint8)
 - [ ] [Sprint 9](Sprint9)
