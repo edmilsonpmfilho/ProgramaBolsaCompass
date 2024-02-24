@@ -23,6 +23,6 @@ Formado em Gastronomia pela Faculdade Senac Pernambuco.
 - [x] [Sprint 5](Sprint5)
 - [x] [Sprint 6](Sprint6)
 - [x] [Sprint 7](Sprint7)
-- [ ] [Sprint 8](Sprint8)
+- [x] [Sprint 8](Sprint8)
 - [ ] [Sprint 9](Sprint9)
 - [ ] [Sprint 10](Sprint10)
