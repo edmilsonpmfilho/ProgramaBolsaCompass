@@ -1,5 +1,7 @@
 ## Explicação da camada Trusted e Refined
 
+##### O desafio foi realizado no Google Colab
+
 ### CSV
 Para o arquivo CSV utilizei a base de dados movies.csv que foi disponibilizado e estava na camada Raw. Para fazer os CSV para camada Trusted retirei as colunas que não seriam utilizadas, uma filtragem dos filmes do Gênero Romance, após isso fiz a limpeza dos id’s duplicados, retirada dos linhas com dados vazios e depois a retirada das linhas com dados \N. Com isso criei um CSV com apenas os filmes de Romance e para o CSV de filmes completos. Converti os dados para .parquet e enviei para o S3.
 
